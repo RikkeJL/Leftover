@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Leftover</string>
+    <string name="add_1">Add 1</string>
+    <string name="subtract_1">Subtract 1</string>
+    <string name="confirm">Confirm</string>
+</resources>
